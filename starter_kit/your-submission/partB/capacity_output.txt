@@ -1,0 +1,12 @@
+kv_bytes_per_token=114688
+kv_pool_gb=12.080
+4096_token_sequence_gb=0.469762
+max_4096_token_sequences=25.72 (floor 25)
+
+long_context_rows
+batch= 4 reported=  565.4 goodput=  70.7 inferred=  70.7 preempted= 0 kv_util=0.16
+batch= 8 reported=  902.6 goodput= 112.8 inferred= 112.8 preempted= 0 kv_util=0.31
+batch=16 reported= 1311.4 goodput= 163.9 inferred= 163.9 preempted= 0 kv_util=0.62
+batch=24 reported= 1607.4 goodput= 200.9 inferred= 200.9 preempted= 0 kv_util=0.93
+batch=32 reported= 1384.0 goodput= 173.0 inferred= 173.0 preempted= 7 kv_util=0.97
+batch=48 reported= 1298.5 goodput= 162.3 inferred= 162.3 preempted=23 kv_util=0.97

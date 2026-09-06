@@ -1,0 +1,16 @@
+sample_eng_v0: {"macro_tok_per_codepoint": 0.2256359380861302, "macro_tok_per_space_word": 1.2652056277056276}
+sample_eng_global_space_lower: {"codepoints": 448, "graphemes": 448, "sentences": 10, "tok_per_grapheme": 0.22098214285714285, "tok_per_sentence": 9.9, "tok_per_utf8_byte": 0.22098214285714285, "tok_per_word": 1.2531645569620253, "tokens": 99, "utf8_bytes": 448, "words": 79}
+sample_eng_global_unicode_case_preserved: {"codepoints": 448, "graphemes": 448, "sentences": 10, "tok_per_grapheme": 0.21428571428571427, "tok_per_sentence": 9.6, "tok_per_utf8_byte": 0.21428571428571427, "tok_per_word": 1.2307692307692308, "tokens": 96, "utf8_bytes": 448, "words": 78}
+sample_eng_nfc_changed_lines: 0
+sample_hin_v0: {"macro_tok_per_codepoint": 1.5791082199963777, "macro_tok_per_space_word": 7.44845238095238}
+sample_hin_global_space_lower: {"codepoints": 290, "graphemes": 188, "sentences": 10, "tok_per_grapheme": 2.4414893617021276, "tok_per_sentence": 45.9, "tok_per_utf8_byte": 0.6007853403141361, "tok_per_word": 7.403225806451613, "tokens": 459, "utf8_bytes": 764, "words": 62}
+sample_hin_global_unicode_case_preserved: {"codepoints": 290, "graphemes": 188, "sentences": 10, "tok_per_grapheme": 2.4414893617021276, "tok_per_sentence": 45.9, "tok_per_utf8_byte": 0.6007853403141361, "tok_per_word": 7.524590163934426, "tokens": 459, "utf8_bytes": 764, "words": 61}
+sample_hin_nfc_changed_lines: 0
+flores_eng_v0: {"macro_tok_per_codepoint": 0.21405492896120265, "macro_tok_per_space_word": 1.2873650861783383}
+flores_eng_global: {"codepoints": 131966, "graphemes": 131966, "sentences": 1012, "tok_per_grapheme": 0.2049315732840277, "tok_per_sentence": 26.723320158102766, "tok_per_utf8_byte": 0.2047298934108527, "tok_per_word": 1.2348294598420164, "tokens": 27044, "utf8_bytes": 132096, "words": 21901}
+flores_hin_v0: {"macro_tok_per_codepoint": 1.5291273245524868, "macro_tok_per_space_word": 7.859836148189716}
+flores_hin_global: {"codepoints": 131201, "graphemes": 85978, "sentences": 1012, "tok_per_grapheme": 2.3343646048989277, "tok_per_sentence": 198.32411067193675, "tok_per_utf8_byte": 0.5947490072897529, "tok_per_word": 7.826853332293413, "tokens": 200704, "utf8_bytes": 337460, "words": 25643}
+flores_kan_v0: {"macro_tok_per_codepoint": 2.658678433309789, "macro_tok_per_space_word": 22.461379266221844}
+flores_kan_global: {"codepoints": 138127, "graphemes": 90471, "sentences": 1012, "tok_per_grapheme": 4.061688275801085, "tok_per_sentence": 363.10770750988144, "tok_per_utf8_byte": 0.9787556500222405, "tok_per_word": 22.82391304347826, "tokens": 367465, "utf8_bytes": 375441, "words": 16100}
+flores_tam_v0: {"macro_tok_per_codepoint": 2.723940943061701, "macro_tok_per_space_word": 25.12700532444815}
+flores_tam_global: {"codepoints": 154131, "graphemes": 99724, "sentences": 1012, "tok_per_grapheme": 4.213338815129758, "tok_per_sentence": 415.1887351778656, "tok_per_utf8_byte": 0.9965278024831904, "tok_per_word": 25.047451564828613, "tokens": 420171, "utf8_bytes": 421635, "words": 16775}

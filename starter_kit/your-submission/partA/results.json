@@ -1,0 +1,174 @@
+{
+  "corpus": {
+    "eng": {
+      "file": "eng_Latn.devtest",
+      "sha256": "612e9fbe87997617c0fa8fa8929654a4f49b728d96738112c2b86ef6a1d78d88",
+      "sentences": 1012
+    },
+    "hin": {
+      "file": "hin_Deva.devtest",
+      "sha256": "5f5fd39acadca29fb044a0398e81869e48f37de979df086f2fad4a7d1fd2d015",
+      "sentences": 1012
+    },
+    "kan": {
+      "file": "kan_Knda.devtest",
+      "sha256": "58e8ed5ef79cfd9994e7d4010d22b5ce72c3559f0c8e988fbde11fa58a720cd8",
+      "sentences": 1012
+    },
+    "tam": {
+      "file": "tam_Taml.devtest",
+      "sha256": "a18b26bf278e458f085c70173d6789d6108cb2e3346c81a1bd0f8aceb4ea30e4",
+      "sentences": 1012
+    }
+  },
+  "tokenizers": {
+    "gpt2": {
+      "eng": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 27044,
+          "words": 21901,
+          "codepoints": 131966,
+          "graphemes": 131966,
+          "utf8_bytes": 132096,
+          "tok_per_word": 1.2348294598420164,
+          "tok_per_grapheme": 0.2049315732840277,
+          "tok_per_utf8_byte": 0.2047298934108527,
+          "tok_per_sentence": 26.723320158102766
+        },
+        "v0": {
+          "macro_tok_per_space_word": 1.2873650861783383,
+          "macro_tok_per_codepoint": 0.21405492896120265
+        }
+      },
+      "hin": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 200704,
+          "words": 25643,
+          "codepoints": 131201,
+          "graphemes": 85978,
+          "utf8_bytes": 337460,
+          "tok_per_word": 7.826853332293413,
+          "tok_per_grapheme": 2.3343646048989277,
+          "tok_per_utf8_byte": 0.5947490072897529,
+          "tok_per_sentence": 198.32411067193675
+        },
+        "v0": {
+          "macro_tok_per_space_word": 7.859836148189716,
+          "macro_tok_per_codepoint": 1.5291273245524868
+        }
+      },
+      "kan": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 367465,
+          "words": 16100,
+          "codepoints": 138127,
+          "graphemes": 90471,
+          "utf8_bytes": 375441,
+          "tok_per_word": 22.82391304347826,
+          "tok_per_grapheme": 4.061688275801085,
+          "tok_per_utf8_byte": 0.9787556500222405,
+          "tok_per_sentence": 363.10770750988144
+        },
+        "v0": {
+          "macro_tok_per_space_word": 22.461379266221844,
+          "macro_tok_per_codepoint": 2.658678433309789
+        }
+      },
+      "tam": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 420171,
+          "words": 16775,
+          "codepoints": 154131,
+          "graphemes": 99724,
+          "utf8_bytes": 421635,
+          "tok_per_word": 25.047451564828613,
+          "tok_per_grapheme": 4.213338815129758,
+          "tok_per_utf8_byte": 0.9965278024831904,
+          "tok_per_sentence": 415.1887351778656
+        },
+        "v0": {
+          "macro_tok_per_space_word": 25.12700532444815,
+          "macro_tok_per_codepoint": 2.723940943061701
+        }
+      }
+    },
+    "xlmr": {
+      "eng": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 30661,
+          "words": 21901,
+          "codepoints": 131966,
+          "graphemes": 131966,
+          "utf8_bytes": 132096,
+          "tok_per_word": 1.3999817359937903,
+          "tok_per_grapheme": 0.23234014821999607,
+          "tok_per_utf8_byte": 0.23211149467054262,
+          "tok_per_sentence": 30.297430830039527
+        },
+        "v0": {
+          "macro_tok_per_space_word": 1.4376430063698566,
+          "macro_tok_per_codepoint": 0.23843310050124455
+        }
+      },
+      "hin": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 38221,
+          "words": 25643,
+          "codepoints": 131201,
+          "graphemes": 85978,
+          "utf8_bytes": 337460,
+          "tok_per_word": 1.4905042311741996,
+          "tok_per_grapheme": 0.44454395310428246,
+          "tok_per_utf8_byte": 0.11326083091329343,
+          "tok_per_sentence": 37.76778656126482
+        },
+        "v0": {
+          "macro_tok_per_space_word": 1.504394861145724,
+          "macro_tok_per_codepoint": 0.29355120229083886
+        }
+      },
+      "kan": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 41459,
+          "words": 16100,
+          "codepoints": 138127,
+          "graphemes": 90471,
+          "utf8_bytes": 375441,
+          "tok_per_word": 2.5750931677018634,
+          "tok_per_grapheme": 0.4582573421317328,
+          "tok_per_utf8_byte": 0.11042747062787495,
+          "tok_per_sentence": 40.96739130434783
+        },
+        "v0": {
+          "macro_tok_per_space_word": 2.539328436937155,
+          "macro_tok_per_codepoint": 0.3020058752728092
+        }
+      },
+      "tam": {
+        "corrected": {
+          "sentences": 1012,
+          "tokens": 41354,
+          "words": 16775,
+          "codepoints": 154131,
+          "graphemes": 99724,
+          "utf8_bytes": 421635,
+          "tok_per_word": 2.46521609538003,
+          "tok_per_grapheme": 0.4146845293008704,
+          "tok_per_utf8_byte": 0.09808009297140892,
+          "tok_per_sentence": 40.86363636363637
+        },
+        "v0": {
+          "macro_tok_per_space_word": 2.4727492555034005,
+          "macro_tok_per_codepoint": 0.2690231785304005
+        }
+      }
+    }
+  }
+}
